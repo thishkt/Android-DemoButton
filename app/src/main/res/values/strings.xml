@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoButton</string>
+    <string name="online">上線</string>
+    <string name="offline">離線</string>
+</resources>
